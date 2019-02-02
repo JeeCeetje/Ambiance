@@ -1,0 +1,25 @@
+-- GENERAL --
+https://dev.w3.org/html5/html-author/charref
+
+
+-- CSS --
+https://internetingishard.com/html-and-css/responsive-design/
+https://stackoverflow.com/questions/21537806/css-height-same-as-width
+https://stackoverflow.com/questions/826782/how-to-disable-text-selection-highlighting-using-css
+
+
+-- JAVASCRIPT --
+https://stackoverflow.com/questions/14094697/javascript-how-to-create-new-div-dynamically-change-it-move-it-modify-it-in
+https://stackoverflow.com/questions/11398522/create-a-div-using-loop
+https://stackoverflow.com/questions/1484506/random-color-generator
+
+
+-- WEBSERVER --
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server
+http://www.favicon.cc/
+https://webdesign.tutsplus.com/articles/quick-tip-give-your-website-an-ios-home-screen-icon--webdesign-10067
+http://www.kylejlarson.com/blog/adding-an-icon-for-iphone-ipad-android-to-your-website/
+
+
+-- PHOTOSHOP --
+http://www.tech-recipes.com/rx/39976/photoshop-scale-pixel-art-without-losing-quality/
